@@ -43,7 +43,7 @@ The system consists of three main components:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/s-r-i-v-i-d-h-y-a-m/CC-mini-raft-drawing-board.git
    cd CC-mini-raft-drawing-board
    ```
 
